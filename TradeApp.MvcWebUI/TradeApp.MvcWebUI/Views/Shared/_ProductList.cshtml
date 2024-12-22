@@ -1,0 +1,31 @@
+﻿@using TradeApp.MvcWebUI.Entity;
+@model IEnumerable<TradeApp.MvcWebUI.Models.ProductModel>
+
+<div class="row">
+
+    @foreach (var product in Model)
+    {
+        <div class="col-md-4 mb-3">
+            <div class="card">
+                <img class="card-img-top"
+                     src="/Upload/@product.Image"
+                     alt="@product.Name" />
+                <div class="card-body">
+                    <h5 class="card-title">
+                        <a href="/Home/Details/@product.Id">@product.Name</a>
+                    </h5>
+                    <p class="card-text pt-2 description" >@product.Description</p>
+                </div>
+                <div class="card-footer">
+                    <small class="text-muted">
+                        <i class="fa fa-try" aria-hidden="true"></i>
+                        @product.Price
+                    </small>
+                    <a href="/Home/Details/@product.Id" class="btn btn-primary btn-sm float-right"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Ürünü İncele</a>
+                </div>
+
+            </div>
+        </div>
+    }
+
+</div>

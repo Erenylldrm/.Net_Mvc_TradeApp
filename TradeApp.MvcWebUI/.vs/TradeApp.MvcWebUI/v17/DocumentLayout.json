@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\engineer\\Desktop\\TradeApp\\TradeApp.MvcWebUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1396E6A-FC1A-4BCC-88EE-2297E851A8F2}|TradeApp.MvcWebUI\\TradeApp.MvcWebUI.csproj|c:\\users\\engineer\\desktop\\tradeapp\\tradeapp.mvcwebui\\tradeapp.mvcwebui\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1396E6A-FC1A-4BCC-88EE-2297E851A8F2}|TradeApp.MvcWebUI\\TradeApp.MvcWebUI.csproj|solutionrelative:tradeapp.mvcwebui\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1396E6A-FC1A-4BCC-88EE-2297E851A8F2}|TradeApp.MvcWebUI\\TradeApp.MvcWebUI.csproj|c:\\users\\engineer\\desktop\\tradeapp\\tradeapp.mvcwebui\\tradeapp.mvcwebui\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1396E6A-FC1A-4BCC-88EE-2297E851A8F2}|TradeApp.MvcWebUI\\TradeApp.MvcWebUI.csproj|solutionrelative:tradeapp.mvcwebui\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1396E6A-FC1A-4BCC-88EE-2297E851A8F2}|TradeApp.MvcWebUI\\TradeApp.MvcWebUI.csproj|c:\\users\\engineer\\desktop\\tradeapp\\tradeapp.mvcwebui\\tradeapp.mvcwebui\\models\\orderdetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1396E6A-FC1A-4BCC-88EE-2297E851A8F2}|TradeApp.MvcWebUI\\TradeApp.MvcWebUI.csproj|solutionrelative:tradeapp.mvcwebui\\models\\orderdetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1396E6A-FC1A-4BCC-88EE-2297E851A8F2}|TradeApp.MvcWebUI\\TradeApp.MvcWebUI.csproj|c:\\users\\engineer\\desktop\\tradeapp\\tradeapp.mvcwebui\\tradeapp.mvcwebui\\entity\\enumorderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1396E6A-FC1A-4BCC-88EE-2297E851A8F2}|TradeApp.MvcWebUI\\TradeApp.MvcWebUI.csproj|solutionrelative:tradeapp.mvcwebui\\entity\\enumorderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1396E6A-FC1A-4BCC-88EE-2297E851A8F2}|TradeApp.MvcWebUI\\TradeApp.MvcWebUI.csproj|c:\\users\\engineer\\desktop\\tradeapp\\tradeapp.mvcwebui\\tradeapp.mvcwebui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1396E6A-FC1A-4BCC-88EE-2297E851A8F2}|TradeApp.MvcWebUI\\TradeApp.MvcWebUI.csproj|solutionrelative:tradeapp.mvcwebui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1396E6A-FC1A-4BCC-88EE-2297E851A8F2}|TradeApp.MvcWebUI\\TradeApp.MvcWebUI.csproj|c:\\users\\engineer\\desktop\\tradeapp\\tradeapp.mvcwebui\\tradeapp.mvcwebui\\models\\adminordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1396E6A-FC1A-4BCC-88EE-2297E851A8F2}|TradeApp.MvcWebUI\\TradeApp.MvcWebUI.csproj|solutionrelative:tradeapp.mvcwebui\\models\\adminordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1396E6A-FC1A-4BCC-88EE-2297E851A8F2}|TradeApp.MvcWebUI\\TradeApp.MvcWebUI.csproj|c:\\users\\engineer\\desktop\\tradeapp\\tradeapp.mvcwebui\\tradeapp.mvcwebui\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1396E6A-FC1A-4BCC-88EE-2297E851A8F2}|TradeApp.MvcWebUI\\TradeApp.MvcWebUI.csproj|solutionrelative:tradeapp.mvcwebui\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1396E6A-FC1A-4BCC-88EE-2297E851A8F2}|TradeApp.MvcWebUI\\TradeApp.MvcWebUI.csproj|c:\\users\\engineer\\desktop\\tradeapp\\tradeapp.mvcwebui\\tradeapp.mvcwebui\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1396E6A-FC1A-4BCC-88EE-2297E851A8F2}|TradeApp.MvcWebUI\\TradeApp.MvcWebUI.csproj|solutionrelative:tradeapp.mvcwebui\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1396E6A-FC1A-4BCC-88EE-2297E851A8F2}|TradeApp.MvcWebUI\\TradeApp.MvcWebUI.csproj|c:\\users\\engineer\\desktop\\tradeapp\\tradeapp.mvcwebui\\tradeapp.mvcwebui\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1396E6A-FC1A-4BCC-88EE-2297E851A8F2}|TradeApp.MvcWebUI\\TradeApp.MvcWebUI.csproj|solutionrelative:tradeapp.mvcwebui\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\engineer\\Desktop\\TradeApp\\TradeApp.MvcWebUI\\TradeApp.MvcWebUI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "TradeApp.MvcWebUI\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\engineer\\Desktop\\TradeApp\\TradeApp.MvcWebUI\\TradeApp.MvcWebUI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "TradeApp.MvcWebUI\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:35:40.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnumOrderState.cs",
+              "DocumentMoniker": "C:\\Users\\engineer\\Desktop\\TradeApp\\TradeApp.MvcWebUI\\TradeApp.MvcWebUI\\Entity\\EnumOrderState.cs",
+              "RelativeDocumentMoniker": "TradeApp.MvcWebUI\\Entity\\EnumOrderState.cs",
+              "ToolTip": "C:\\Users\\engineer\\Desktop\\TradeApp\\TradeApp.MvcWebUI\\TradeApp.MvcWebUI\\Entity\\EnumOrderState.cs",
+              "RelativeToolTip": "TradeApp.MvcWebUI\\Entity\\EnumOrderState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:10:10.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\engineer\\Desktop\\TradeApp\\TradeApp.MvcWebUI\\TradeApp.MvcWebUI\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "TradeApp.MvcWebUI\\Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\engineer\\Desktop\\TradeApp\\TradeApp.MvcWebUI\\TradeApp.MvcWebUI\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "TradeApp.MvcWebUI\\Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T13:42:33.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDetailsModel.cs",
+              "DocumentMoniker": "C:\\Users\\engineer\\Desktop\\TradeApp\\TradeApp.MvcWebUI\\TradeApp.MvcWebUI\\Models\\OrderDetailsModel.cs",
+              "RelativeDocumentMoniker": "TradeApp.MvcWebUI\\Models\\OrderDetailsModel.cs",
+              "ToolTip": "C:\\Users\\engineer\\Desktop\\TradeApp\\TradeApp.MvcWebUI\\TradeApp.MvcWebUI\\Models\\OrderDetailsModel.cs",
+              "RelativeToolTip": "TradeApp.MvcWebUI\\Models\\OrderDetailsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T19:03:55.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminOrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\engineer\\Desktop\\TradeApp\\TradeApp.MvcWebUI\\TradeApp.MvcWebUI\\Models\\AdminOrderModel.cs",
+              "RelativeDocumentMoniker": "TradeApp.MvcWebUI\\Models\\AdminOrderModel.cs",
+              "ToolTip": "C:\\Users\\engineer\\Desktop\\TradeApp\\TradeApp.MvcWebUI\\TradeApp.MvcWebUI\\Models\\AdminOrderModel.cs",
+              "RelativeToolTip": "TradeApp.MvcWebUI\\Models\\AdminOrderModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T13:23:07.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\engineer\\Desktop\\TradeApp\\TradeApp.MvcWebUI\\TradeApp.MvcWebUI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TradeApp.MvcWebUI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\engineer\\Desktop\\TradeApp\\TradeApp.MvcWebUI\\TradeApp.MvcWebUI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TradeApp.MvcWebUI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAA4wI4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T19:17:45.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\engineer\\Desktop\\TradeApp\\TradeApp.MvcWebUI\\TradeApp.MvcWebUI\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "TradeApp.MvcWebUI\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\engineer\\Desktop\\TradeApp\\TradeApp.MvcWebUI\\TradeApp.MvcWebUI\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "TradeApp.MvcWebUI\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T13:27:12.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\engineer\\Desktop\\TradeApp\\TradeApp.MvcWebUI\\TradeApp.MvcWebUI\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "TradeApp.MvcWebUI\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\engineer\\Desktop\\TradeApp\\TradeApp.MvcWebUI\\TradeApp.MvcWebUI\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "TradeApp.MvcWebUI\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T18:45:53.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\engineer\\Desktop\\TradeApp\\TradeApp.MvcWebUI\\TradeApp.MvcWebUI\\Entity\\Order.cs",
+              "RelativeDocumentMoniker": "TradeApp.MvcWebUI\\Entity\\Order.cs",
+              "ToolTip": "C:\\Users\\engineer\\Desktop\\TradeApp\\TradeApp.MvcWebUI\\TradeApp.MvcWebUI\\Entity\\Order.cs",
+              "RelativeToolTip": "TradeApp.MvcWebUI\\Entity\\Order.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T19:14:50.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
